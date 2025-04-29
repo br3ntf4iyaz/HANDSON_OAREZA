@@ -1,0 +1,21 @@
+.hero-section {
+    height: 100vh;
+    background-color: #f0f4f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0 1rem;
+  }
+  
+  .hero-content h1 {
+    font-size: 3rem;
+    color: #1e3a8a;
+    margin-bottom: 1rem;
+  }
+  
+  .hero-content p {
+    font-size: 1.25rem;
+    color: #4b5563;
+  }
+  
